@@ -12,7 +12,7 @@
 #===================================================================================
 code_path=app/
 test_runner=unittest
-revert_all=1
+revert_all=0
 
 
 test(){
